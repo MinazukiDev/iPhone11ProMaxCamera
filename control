@@ -1,0 +1,9 @@
+Package: com.minazuki.iphone11promaxcamera
+Name: iPhone11ProMaxCamera
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
